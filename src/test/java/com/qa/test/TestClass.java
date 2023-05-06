@@ -18,6 +18,12 @@ public class TestClass {
 		
 		System.out.println("this is test2");
 	}
+	
+	@Test
+      public void test3() {
+		
+		System.out.println("this is test3");
+	}
 
 	
 }
